@@ -1,4 +1,3 @@
-# madobe.tk
 ![Фан-сайт по ОС-тян][link]
 ## Список                  
 + ОС-тян<sup>*</sup> https://vk.com/os_chan
